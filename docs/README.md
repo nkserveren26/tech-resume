@@ -51,12 +51,16 @@ HTTP・HTTPS・TCP/IP・SSH
 MySQL・PostgreSQL・Oracle
 
 ### プロジェクト管理
+Redmine・Backlog
 
 ### バージョン管理
+Git・SVN
 
 ### IaC
+CDK
 
 ### コンテナ
+Docker
 
 ### クラウド
 
