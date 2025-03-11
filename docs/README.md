@@ -45,8 +45,10 @@ Java・Python・JavaScript・TypeScript
 Vue.js・React・Spring Boot
 
 ### 通信プロトコル
+HTTP・HTTPS・TCP/IP・SSH
 
 ### RDB
+MySQL・PostgreSQL・Oracle
 
 ### プロジェクト管理
 
