@@ -35,6 +35,35 @@
 
 ## スキル
 
+### 開発手法
+アジャイル開発・ウォーターフォール開発
+
+### 言語
+Java・Python・JavaScript・TypeScript
+
+### フレームワーク・ライブラリ
+Vue.js・React・Spring Boot
+
+### 通信プロトコル
+
+### RDB
+
+### プロジェクト管理
+
+### バージョン管理
+
+### IaC
+
+### コンテナ
+
+### クラウド
+
+#### AWS
+
+#### Azure
+
+### SaaS/PaaS
+
 
 
 ## IT資格
