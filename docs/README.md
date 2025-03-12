@@ -65,11 +65,13 @@ Docker
 ### クラウド
 
 #### AWS
+EC2・Security Group・RDS・Aurora・RDS Proxy・S3・IAM・Lambda・API Gateway・Amplify・DynamoDB・AppRunner・ECR・CodeCommit・CodeBuild・CodePipeline・Cognito・CloudFront・ACM・ALB・WAF・EventBridge・Step Functions・Database Migration Service・AWS Backup・VPC・Route Table・VPC Flowlog・NAT Gateway・Subnet・VPC Peering・VPC Endpoint・System Manager Parameter Store・Secrets Manager・Config・SecurityHub・Amazon SNS・CloudWatch・SES・SQS・Route 53・GuardDuty・CloudTrail・KMS・Identity Center
 
 #### Azure
+Azure VM・VNet・Network Security Group・Azure Firewall・Azure DNS・Express Route
 
 ### SaaS/PaaS
-
+Backlog・Github・Github Actions・BlackDuck
 
 
 ## IT資格
