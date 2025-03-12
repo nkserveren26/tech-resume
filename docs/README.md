@@ -62,13 +62,42 @@ CDK
 ### コンテナ
 Docker
 
-### クラウド
+### 🌥️ クラウド
 
-#### AWS
-EC2・Security Group・RDS・Aurora・RDS Proxy・S3・IAM・Lambda・API Gateway・Amplify・DynamoDB・AppRunner・ECR・CodeCommit・CodeBuild・CodePipeline・Cognito・CloudFront・ACM・ALB・WAF・EventBridge・Step Functions・Database Migration Service・AWS Backup・VPC・Route Table・VPC Flowlog・NAT Gateway・Subnet・VPC Peering・VPC Endpoint・System Manager Parameter Store・Secrets Manager・Config・SecurityHub・Amazon SNS・CloudWatch・SES・SQS・Route 53・GuardDuty・CloudTrail・KMS・Identity Center
+### 🚀 AWS  
 
-#### Azure
-Azure VM・VNet・Network Security Group・Azure Firewall・Azure DNS・Express Route
+#### ☁️ 基盤・ネットワーク  
+- **EC2**・**RDS**・**Aurora**・**RDS Proxy**・**S3**・**DynamoDB**  
+- **VPC**・**Subnet**・**Route Table**・**NAT Gateway**・**VPC Peering**・**VPC Endpoint**  
+- **Security Group**・**WAF**・**ALB**・**VPC Flowlog**
+
+#### ⚙️ サーバーレス・コンピューティング  
+- **Lambda**・**API Gateway**・**AppRunner**・**Step Functions**
+
+#### 🔒 セキュリティ・認証・監査  
+- **IAM**・**Cognito**・**KMS**・**Secrets Manager**  
+- **System Manager Parameter Store**・**Config**・**SecurityHub**・**Identity Center**
+- **CloudTrail**・**GuardDuty**
+
+#### 🌍 ネットワーク・配信  
+- **CloudFront**（CDN）・**ACM**（証明書管理）・**Route 53**（DNS）
+
+#### 📩 メッセージング・通知  
+- **SQS**・**SNS**・**SES**・**EventBridge**
+
+#### 🛠️ CI/CD・運用・監視  
+- **CodeCommit**・**CodeBuild**・**CodePipeline**・**ECR**    
+- **CloudWatch**・**AWS Backup**・**Amazon DMS**
+
+---
+
+### 🔷 Azure  
+
+#### ☁️ 基盤・ネットワーク  
+- **Azure VM**・**VNet**・**Network Security Group**  
+- **Azure Firewall**・**Azure DNS**・**Express Route**
+
+---
 
 ### SaaS/PaaS
 Backlog・Github・Github Actions・BlackDuck
