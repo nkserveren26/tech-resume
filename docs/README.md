@@ -75,3 +75,10 @@ Backlog・Github・Github Actions・BlackDuck
 
 
 ## IT資格
+- AWS Certified Solutions Architect - Associate
+- AWS Certified Solutions Architect - Professional
+- AWS Certified Developer - Associate
+- Linuc Level1
+- Oracle Certified Java Programmer Gold SE 8
+- Oracle MASTER Silver DBA 2019
+- 応用情報技術者
