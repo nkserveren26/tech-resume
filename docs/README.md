@@ -111,3 +111,9 @@ Backlog・Github・Github Actions・BlackDuck
 - Oracle Certified Java Programmer Gold SE 8
 - Oracle MASTER Silver DBA 2019
 - 応用情報技術者
+
+## 技術記事
+
+- [Qiita](https://qiita.com/nkserveren26)
+
+## 職務経歴詳細
